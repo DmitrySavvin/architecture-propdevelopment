@@ -1,0 +1,3 @@
+kubectl config set-credentials admin --username=admin --password=password
+kubectl config set-credentials analytic --username=analytic --password=password
+kubectl config set-credentials developer --username=developer --password=password
